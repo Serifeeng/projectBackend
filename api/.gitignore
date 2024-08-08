@@ -1,0 +1,3 @@
+# gitte yüklenmemesini istediğimiz dosyaların yazıldığı dosya
+node_modules/
+packege-lock.json
